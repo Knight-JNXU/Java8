@@ -1,4 +1,4 @@
-package VariableScope;
+package Lambda;
 
 /**
  * Created by Knight_JXNU on 2016/12/12.
