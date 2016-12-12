@@ -7,6 +7,7 @@ import java.util.function.Supplier;
 /**
  * Created by Knight_JXNU on 2016/12/12.
  * java8 方法引用
+ * 说白了就是使用 ::
  */
 public class MethodRef {
     private static class Car{
