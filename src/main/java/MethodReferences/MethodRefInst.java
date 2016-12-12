@@ -6,6 +6,7 @@ import java.util.List;
 /**
  * Created by Knight_JXNU on 2016/12/12.
  * java8 方法引用实例
+ * 说白了就是使用 ::
  */
 public class MethodRefInst {
     public static void main(String[] args){
