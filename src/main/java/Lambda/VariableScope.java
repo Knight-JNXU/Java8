@@ -2,6 +2,7 @@ package Lambda;
 
 /**
  * Created by Knight_JXNU on 2016/12/12.
+ * java8 lambda表达式 变量作用域
  */
 public class VariableScope {
     final static String salutation = "Hello ";
