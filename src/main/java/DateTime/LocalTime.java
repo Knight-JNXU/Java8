@@ -6,6 +6,20 @@ import java.time.Month;
 
 /**
  * Created by Knight_JXNU on 2016/12/13.
+ * console:
+ now:2016-12-13T14:58:50.944
+ -----------------------
+ date1:2016-12-13
+ -----------------------
+ month:DECEMBER, day:13, seconds:50
+ -----------------------
+ date2:2012-12-10T14:58:50.944
+ -----------------------
+ date3:2014-12-12
+ -----------------------
+ date4:22:15
+ -----------------------
+ date5:20:15:30
  */
 public class LocalTime {
     public static void main(String[] args){
